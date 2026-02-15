@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model files
+*.h5
+*.pth
+*.pkl
+
+# Data files
+*.csv
+*.json
+
+# IDE directories
+.vscode/
+.idea/
