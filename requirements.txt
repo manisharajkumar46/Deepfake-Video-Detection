@@ -1,0 +1,8 @@
+torch
+tensorflow
+opencv-python
+fastapi
+numpy
+pandas
+scikit-learn
+pytest
